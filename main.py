@@ -1,4 +1,4 @@
 print(1)
 
 def work():
-    print('work')
+    print('wok')
